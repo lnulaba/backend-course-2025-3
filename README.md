@@ -44,5 +44,7 @@ node main.js -i flights-1m.json -d -o results.txt
 - `AIR_TIME` - час у повітрі (хвилини)
 - `DISTANCE` - відстань (милі)
 
+**Примітка:** Файл `flights-1m.json` (1 мільйон записів, ~117 МБ) не включено до репозиторію через обмеження GitHub. Для тестування програми потрібно окремо завантажити цей файл.
+
 ## Автор
 Marta Stakhurska (backend-course-2025-3)
