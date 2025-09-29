@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Data files (too large for GitHub)
+flights-1m.json
+
+# Test output files
+results*.txt
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
