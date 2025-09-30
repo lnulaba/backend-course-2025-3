@@ -1,6 +1,13 @@
 const { Command } = require('commander');
 const fs = require('fs');
 
+/**
+ * Лабораторна робота №3: Аналізатор даних польотів
+ * Варіант 2: flights-1m.json
+ * Автор: Marta Stakhurska
+ * Дата: 30 вересня 2025
+ */
+
 const program = new Command();
 
 // Налаштування командного рядка
