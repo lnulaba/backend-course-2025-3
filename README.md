@@ -48,3 +48,6 @@ node main.js -i flights-1m.json -d -o results.txt
 
 ## Автор
 Marta Stakhurska (backend-course-2025-3)
+
+## Дата виконання
+30 вересня 2025
